@@ -1,12 +1,12 @@
 # Deep-Learning-for-Computer-Vision-Marathon
 
-https://cvdl.cupoy.com/
-
+<a href="https://cvdl.cupoy.com/">2019 Deep Learning for Computer Vision Marathon</a>
 
 ## 1. 基礎影像處理
-001：OpenCV 簡介 + 顯示圖片<br>
-002：Color presentation 介紹 (RGB, LAB, HSV)<br>
-003：顏色相關的預處理 (改變亮度, 色差)<br>
+<a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day001_Intro_to_OpenCV_and_imshow">001：OpenCV簡介+顯示圖片 Intro to OpenCV and imshow</a><br>
+<a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day002_Color_Presentation_Introduction_RGB_LAB_HSV">002：色彩呈現方式介紹 Color presentation Introduction (RGB, LAB, HSV)</a><br>
+<a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day003_Image_Preprocessing">003：顏色相關的預處理(改變亮度、色差) Color Preprocessing (adjust brightness, color aberration)</a><br>
+
 
 ## 2. 電腦視覺深度學習基礎
 
