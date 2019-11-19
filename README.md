@@ -1,6 +1,6 @@
 # Deep-Learning-for-Computer-Vision-Marathon
 
-<a href="https://cvdl.cupoy.com/">2019 Deep Learning for Computer Vision Marathon</a>
+<a href="https://cvdl.cupoy.com/">2019 深度學習與電腦視覺馬拉松 Deep Learning for Computer Vision Marathon</a>
 
 ![000](homework/000.JPG)
 
