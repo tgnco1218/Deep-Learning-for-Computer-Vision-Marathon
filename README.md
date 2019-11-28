@@ -12,7 +12,7 @@
 
 004：矩陣操作基礎的幾何變換(翻轉/縮放/平移) Basic Geometric Transformation (Rotation/Scaling/Shifting)
 
-005：透過OpenCV作圖並顯示(長方形/圓形/直線/填色) Plot and Display Images using OpenCV (Rectangle/Circle/Line/Coloring) 
+005：OpenCV作圖並顯示(長方形/圓形/直線/填色) Ploting and Displaying Images using OpenCV (Rectangle/Circle/Line/Coloring) 
 
 006：仿射轉換的概念入門與實作 Affine Transformation 
 
