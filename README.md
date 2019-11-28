@@ -8,15 +8,12 @@
 <a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day001_Intro_to_OpenCV_and_imshow">001：OpenCV簡介+顯示圖片 Introduction of OpenCV and imshow</a><br>
 <a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day002_Color_Presentation_Introduction_RGB_LAB_HSV">002：色彩呈現方式介紹 Introduction of Color Presentation (RGB, LAB, HSV)</a><br>
 <a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day003_Image_Preprocessing">003：顏色相關的預處理(改變亮度、色差) Color Preprocessing (adjust brightness, color aberration)</a><br>
+<a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day004_Basic_Geometric_Transformation_(Rotation_Scaling_Shifting)">004：矩陣操作基礎的幾何變換(翻轉/縮放/平移) Basic Geometric Transformation (Rotation/Scaling/Shifting)</a><br>
+<a href="https://github.com/tgnco1218/Deep-Learning-for-Computer-Vision-Marathon/tree/master/homework/Day005_Ploting_and_Displaying_Images_using_OpenCV">005：OpenCV作圖並顯示(長方形/圓形/直線/填色) Ploting and Displaying Images using OpenCV</a><br>
 
 
-004：矩陣操作基礎的幾何變換(翻轉/縮放/平移) Basic Geometric Transformation (Rotation/Scaling/Shifting)
-
-005：OpenCV作圖並顯示(長方形/圓形/直線/填色) Ploting and Displaying Images using OpenCV
-
-006：仿射轉換的概念入門與實作 Affine Transformation 
-
-007：視角轉換的概念入門與實作 Perspective Transformation 
+<a href="">006：仿射轉換的概念入門與實作 Affine Transformation</a><br> 
+<a href="">007：視角轉換的概念入門與實作 Perspective Transformation</a><br> 
 
 008：初探邊緣檢測與模糊圖片操作 Filter 操作 (Sobel edge detect, Gaussian Blur)
 
